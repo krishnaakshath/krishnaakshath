@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Forge** — a self-hosted VFX/animation production tracker (episode → sequence → shot pipeline, review workflows, RBAC)
 - 🛡️ Deep into cybersecurity tooling — phishing detection, DDoS/WiFi honeypots, autonomous SOC experiments
 - 🤖 Also building with ML/AI — deepfake detection, classification pipelines
 - 💬 Ask me about full-stack architecture, security tooling, or ML pipelines
